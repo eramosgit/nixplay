@@ -15,8 +15,7 @@ Node.js + TypeScript implementation of a **Least Recently Used (LRU) cache** wit
 ### Clone the repository
 
 ```bash
-git clone git@github.com:eramosgit/nixplay.git
-cd <repo-folder | nixplay>
+git clone https://github.com/eramosgit/nixplay.git
 ```
 
 ### Install dependencies
